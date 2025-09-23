@@ -28,8 +28,8 @@ voltages are noted down.
 8. A graph between displacement and output voltage is drawn.
 
 
-<img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
+(https://github.com/user-attachments/assets/e21ff723-0f4d-4174-b0ee-1baa293008ce)
+
 
 RESULT:
-
-
+The study the operation of LVDT- Linear Variable Differential Transformer successfully.
